@@ -4,7 +4,7 @@ include_once "LiveIDManager.php";
 include_once "EntityUtils.php";
 
 $liveIDUseranme = "CRMAdmin@Services.onmicrosoft.com";
-$liveIDPassword = "SneakyBastard!";
+$liveIDPassword = "SneakyBastard!!!";
 
 $organizationServiceURL = "https://crm.dynamics.com/XRMServices/2011/Organization.svc";
 $liveIDManager = new LiveIDManager();
